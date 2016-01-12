@@ -24,6 +24,9 @@ public class Test extends Application {
 		stage.show();
 		
 		
+		System.out.println("it works");
+		
+		
 		
 		
 	}
