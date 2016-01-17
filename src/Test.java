@@ -26,7 +26,7 @@ public class Test extends Application {
 		
 		System.out.println("it works");
 		
-		
+		System.out.println("Button-Test");
 		
 		
 	}
